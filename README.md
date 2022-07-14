@@ -1,6 +1,6 @@
 # Тестовые задания курса "Автоматизация тестирования с помощью Selenium и Python"
 ![pytest-3.8](https://img.shields.io/badge/pytest-3.6.2-blue "Использованная версия PyTest")
-![selenium-4.1](https://img.shields.io/badge/selenium-4.0-blue "Использованная версия Selenium")
+![selenium-4.3](https://img.shields.io/badge/selenium-4.3-blue "Использованная версия Selenium")
 ![python-3.10](https://img.shields.io/badge/python-3.10-blue "Использованная версия Selenium")
 
 
